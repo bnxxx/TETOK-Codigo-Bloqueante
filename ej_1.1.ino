@@ -23,4 +23,5 @@ void loop() {
   digitalWrite(3,0);
   delay(125);
   digitalWrite(3,1);
-}
+  delay(125);
+  }
